@@ -1,0 +1,20 @@
+{
+    "params":
+    {
+        "local_server":"True",
+        "local_uri":"mysql://root:@localhost/codingstorm",
+        "prod_uri":"mysql://root:@localhost/codingstorm",
+        "fb_url":"https://facebook.com/codingstorm",
+        "tw_url":"https://twitter.com/codingstorm",
+        "git_url":"https://github.com/codingstorm",
+        "blog_name":"Shree Ganesh Enterprise",
+        "gmail-user":"bhavinpanchal177@gmail.com",
+        "gmail-pass":"9974872703",
+        "about_text":"This is Kano Panchal's about page",
+        "no_of_post":"2",
+        "login_image":"b1.png",
+        "admin_user":"harry",
+        "admin_password": "subscribenow",
+        "upload_location": "F:\\flask-tuts"
+    }
+}
